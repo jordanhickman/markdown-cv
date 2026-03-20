@@ -30,28 +30,25 @@ __Colorado State University__
 `2021 - `
 **University of Colorado Anschutz Medical Campus**, Aurora, CO  
 Graduate Researcher, Denman Lab
-- Neural population responses to electrical brain stimulation in mouse visual cortex
-- high-density electrophysiological recordings with spatiotemporal precision
-- behavioral discrimination of electrical stimulation in primary visual cortex
-- analysis and experimental design in python
+Neural population responses to electrical brain stimulation in mouse visual cortex
 
 `2016 - 2019`
 **University of Colorado Anschutz Medical Campus**, Aurora, CO  
 Professional Research Assistant, Welle Lab
-- Vagus nerve stimulation and motor learning in mice
-- developed chronic VNS implant in mice
-- studied effects of VNS on forelimb reach learning
-- investigated plasticity mechanisms using electrophysiology, calcium imaging, and viral tracing
+Vagus nerve stimulation and motor learning in mice  
 
 `2014 - 2016`
 **Colorado State University**, Fort Collins, CO  
 Undergraduate Researcher, Rash Lab
-- Axonal and myelin ultrastructural coupling.
-- characterized CNS gap junctions in mauthner cells
-- identified Cx29 and Kv1.1 hemichannels linking axons to myelin
+Electrical and ultrastructural coupling of axons and myelin
 
 
-## Honors and Awards
+## Honors, Grants, and Awards
+`2025`
+Brain Computer Interface, Trainee Travel Award
+
+`2025`
+C. Werner and Kitty Hirs Travel Award
 
 `2020 - 2021`
 Trainee, NIH Institutional T32 MSTP Grant GM008497
@@ -83,7 +80,7 @@ Conference Organizer, Neuroscience Retreat
 `2019 - `
 Student Member, American Medical Association
 
-`2018 - 2019`
+`2018 - 2025`
 Member, Society for Neuroscience
 
 `2018 - 2019`
