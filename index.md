@@ -96,7 +96,7 @@ Member, American Society for Stereotactic and Functional Neurosurgery
 - **Hickman JL**, Tsai A, Fullard M, Korsmo M, Forbes E, Aslam S, Baumgartner AJ, Feuerstein JS, Bayram E. Early-onset Parkinson's disease: unique features and management approaches. *Current Neurology and Neuroscience Reports*. 2025. https://doi.org/10.1007/s11910-025-01470-2
 - Sahai E\*, **Hickman JL**\*, Denman DJ. A bioelectric router for adaptive isochronous neurostimulation (BRAINS board). *Scientific Reports*. 2025. https://doi.org/10.1038/s41598-025-07568-4
 - **Hickman JL**, Lafreniere M, Bennett JL, Forbes E, Feuerstein J. Periodic alternating nystagmus, ataxia, and spasticity: a unique presentation of spastic paraplegia 7–related hereditary spastic paraplegia. *Movement Disorders Clinical Practice*. 2024. https://doi.org/10.1002/mdc3.13991
-- Bowles S\*, **Hickman JL**\*, et al. Vagus nerve stimulation drives selective circuit modulation through cholinergic reinforcement. *Neuron*. 2022. https://doi.org/10.1016/j.neuron.2022.06.017
+- Bowles S\*, **Hickman JL**\*, Peng X\* et al. Vagus nerve stimulation drives selective circuit modulation through cholinergic reinforcement. *Neuron*. 2022. https://doi.org/10.1016/j.neuron.2022.06.017
 - Mughrabi IT\*, **Hickman JL**\*, et al. Development and characterization of a chronic implant mouse model for vagus nerve stimulation. *eLife*. 2021. https://doi.org/10.7554/eLife.61270
 
 \* co-first authors
@@ -111,11 +111,16 @@ Member, American Society for Stereotactic and Functional Neurosurgery
 
 ## Abstracts and Posters
 
-- **Hickman JL**, Hughes G, Denman DJ. Demystifying electrical brain stimulation with multi-neuropixel recordings. Presented at MSTP Retreat, Aurora, CO, 2022; Neuroscience Retreat, 2022.
-- **Hickman JL**, Temple BA, Peng X, Welle CG. Chronic VNS in mice to study cortical plasticity. Poster presented at Rocky Mountain Regional Neuroscience Group, 2017.
-- **Hickman JL**, Donegan D, Peng X, Nettles D, Temple BA, Welle CG. Neuromodulation of motor learning via vagus nerve stimulation. Poster presented at CU Neuroscience Retreat, 2017; DARPA PI Meeting, 2018.
-- **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. Poster presented at Rocky Mountain Regional Neuroscience Group, 2018.
-- **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. Poster presented at American Society for Stereotactic and Functional Neurosurgery, 2018.
-- **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. Poster presented at Motoneuron Conference, 2018.
-- **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. Poster presented at Neural Interface Conference, 2018.
-- **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. Poster presented at Society for Neuroscience, 2018.
+- **Hickman JL**, Denman DJ. Neural population dynamics of direct electrical stimulation of neocortex. North American Neuromodulation Symposium, 2026.
+- **Hickman JL**, Denman DJ. Neural population dynamics of direct electrical stimulation of neocortex. COSYNE, 2026.
+- **Hickman JL**, Denman DJ. Non-uniform propagation of electrically evoked neural activity and behavioral detectability in mice. Neurotechnology Symposium, 2025.
+- **Hickman JL**, Denman DJ. Non-uniform propagation of electrically evoked neural activity and behavioral detectability in mice. Brain Computer Interface Symposium, 2025.
+- **Hickman JL**, Denman DJ. Non-uniform propagation of electrically evoked neural activity and behavioral detectability in mice. Society for Neuroscience, 2024.
+- **Hickman JL**, Hughes G, Denman DJ. Demystifying electrical brain stimulation with multi-neuropixel recordings. MSTP Retreat, 2022; Neuroscience Retreat, 2022.
+- **Hickman JL**, Donegan D, Peng X, Nettles D, Temple BA, Welle CG. Neuromodulation of motor learning via vagus nerve stimulation. CU Neuroscience Retreat, 2017; DARPA PI Meeting, 2018.
+- **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. Rocky Mountain Regional Neuroscience Group, 2018.
+- **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. American Society for Stereotactic and Functional Neurosurgery, 2018.
+- **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. Motoneuron Conference, 2018.
+- **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. Neural Interface Conference, 2018.
+- **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. Society for Neuroscience, 2018.
+- **Hickman JL**, Temple BA, Peng X, Welle CG. Chronic VNS in mice to study cortical plasticity. Rocky Mountain Regional Neuroscience Group, 2017.
