@@ -89,15 +89,21 @@ Member, American Society for Stereotactic and Functional Neurosurgery
 
 ## Publications
 
-### First-author / co-first-author publications
+### First-author publications
 
-- **Bowles S\*, Hickman JL\*, et al.** Vagus nerve stimulation drives selective circuit modulation through cholinergic reinforcement. *Neuron*. 2022. https://doi.org/10.1016/j.neuron.2022.06.017
-- **Mughrabi IT\*, Hickman JL\*, et al.** Development and characterization of a chronic implant mouse model for vagus nerve stimulation. *eLife*. 2021. https://doi.org/10.7554/eLife.61270
+- **Hickman JL**, Hughes G, Sahai E, Miles M, Denman DJ. Neural population dynamics of direct electrical stimulation of neocortex. *bioRxiv*. 2025. https://doi.org/10.1101/2025.10.28.685195 (in review at *Cell Reports*)
+- **Hickman JL**, Santiago Moreno J, Hughes G, Sahai E, Garcia N, Denman DJ. Non-uniform spike count shared variability in the mouse early visual system. *Journal of Neurophysiology*. 2026. https://doi.org/10.1152/jn.00382.2025
+- **Hickman JL**, Tsai A, Fullard M, Korsmo M, Forbes E, Aslam S, Baumgartner AJ, Feuerstein JS, Bayram E. Early-onset Parkinson's disease: unique features and management approaches. *Current Neurology and Neuroscience Reports*. 2025. https://doi.org/10.1007/s11910-025-01470-2
+- Sahai E\*, **Hickman JL**\*, Denman DJ. A bioelectric router for adaptive isochronous neurostimulation (BRAINS board). *Scientific Reports*. 2025. https://doi.org/10.1038/s41598-025-07568-4
+- **Hickman JL**, Lafreniere M, Bennett JL, Forbes E, Feuerstein J. Periodic alternating nystagmus, ataxia, and spasticity: a unique presentation of spastic paraplegia 7–related hereditary spastic paraplegia. *Movement Disorders Clinical Practice*. 2024. https://doi.org/10.1002/mdc3.13991
+- Bowles S\*, **Hickman JL**\*, et al. Vagus nerve stimulation drives selective circuit modulation through cholinergic reinforcement. *Neuron*. 2022. https://doi.org/10.1016/j.neuron.2022.06.017
+- Mughrabi IT\*, **Hickman JL**\*, et al. Development and characterization of a chronic implant mouse model for vagus nerve stimulation. *eLife*. 2021. https://doi.org/10.7554/eLife.61270
 
 \* co-first authors
 
 ### Other publications
 
+- Tanabe J, **Hickman JL**, Tekriwal A, Sakai J, Abosch A, Ojemann S, Schacht JP, Thompson JA. Electrophysiology and functional magnetic resonance imaging of cue craving: potential biomarkers for therapeutic neuromodulation in addiction. *Biological Psychiatry: Global Open Science*. 2025. https://doi.org/10.1016/j.bpsgos.2025.100622
 - Bowles S, Williamson R, **Hickman JL**, Welle C. Closed-loop automated reaching apparatus (CLARA) for interrogating motor systems. *Journal of Neural Engineering*. 2021.
 - Peng X, **Hickman JL**, Bowles SG, Donegan DC, Welle CG. Innovations in electrical stimulation harness neural plasticity to restore motor function. *Bioelectronics in Medicine*. 2018.
 - Rash JE, Vanderpool KG, Yasumura T, **Hickman JL**, et al. KV1 channels identified in rodent myelinated axons linked to Cx29. *Journal of Neurophysiology*. 2016.
