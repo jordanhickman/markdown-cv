@@ -10,16 +10,6 @@ MD-PhD Student | University of Colorado Anschutz Medical Campus
 </div>
 
 
-## Currently
-
-Medical Scientist Training Program student at the University of Colorado Anschutz Medical Campus  
-Graduate researcher in the lab of Daniel Denman, PhD
-
-### Research Interests
-
-My research focuses on neural population responses to electrical brain stimulation in mouse visual cortex using high-density electrophysiology and behavior.
-
-
 ## Education
 
 `2019 - `
@@ -33,21 +23,6 @@ __Colorado State University__
 - Fort Collins, CO
 - Biomedical Sciences
 - Degrees: BS, MS
-
-
-## Positions and Scientific Appointments
-
-`2021 - `
-Graduate Researcher, **Daniel Denman Lab, University of Colorado Anschutz Medical Campus**, Aurora, CO
-
-`2019 - `
-Medical Scientist Training Program Student, **University of Colorado Anschutz Medical Campus**, Aurora, CO
-
-`2016 - 2019`
-Professional Research Assistant, **Cristin Welle Lab, University of Colorado Anschutz Medical Campus**, Aurora, CO
-
-`2014 - 2016`
-Undergraduate Researcher, **John Rash Lab, Colorado State University**, Fort Collins, CO
 
 
 ## Research Experience
