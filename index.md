@@ -4,29 +4,29 @@ jordan.hickman@cuanschutz.edu
 
 ## current position
 
-**University of Colorado Anschutz Medical Campus**, Aurora, CO  
-Medical Scientist Training Program (MSTP), student, 2019–present  
+2019–present — Medical Scientist Training Program (MSTP), student  
+University of Colorado Anschutz Medical Campus, Aurora, CO  
 
 
 ## education
 
-**Colorado State University**, Fort Collins, CO  
-BS, MS, Biomedical Sciences, 2016  
+2016 — BS, MS, Biomedical Sciences  
+Colorado State University, Fort Collins, CO  
 
 
 ## research experience
 
-**University of Colorado Anschutz Medical Campus**, Aurora, CO  
-Graduate researcher, Denman Lab, 2021–present  
+2021–present — Graduate researcher, Denman Lab  
+University of Colorado Anschutz Medical Campus, Aurora, CO  
 Neural population responses to electrical brain stimulation in mouse visual cortex  
 
-**University of Colorado Anschutz Medical Campus**, Aurora, CO  
-Professional Research Assistant, Welle Lab, 2016–2019  
+2016–2019 — Professional Research Assistant, Welle Lab  
+University of Colorado Anschutz Medical Campus, Aurora, CO  
 Vagus nerve stimulation and motor learning in mice  
 
-**Colorado State University**, Fort Collins, CO  
-Undergraduate researcher, Rash Lab, 2014–2016  
-Electrical coupling and axonal and myelin ultrastructure  
+2014–2016 — Undergraduate researcher, Rash Lab  
+Colorado State University, Fort Collins, CO  
+Axonal and myelin ultrastructural coupling. 
 
 
 ## publications
@@ -61,41 +61,37 @@ KV1 channels identified in rodent myelinated axons linked to Cx29.
 
 ## selected abstracts and posters
 
+2022 — MSTP Retreat (Best Poster); Neuroscience Retreat  
 **Hickman JL, Hughes G, Denman DJ**  
 Demystifying electrical brain stimulation with multi-neuropixel recordings  
-MSTP Retreat (Best Poster), Neuroscience Retreat, 2022  
 
+2017 — Rocky Mountain Regional Neuroscience Group  
 **Hickman JL, Temple BA, Peng X, Welle CG**  
 Chronic VNS in mice to study cortical plasticity  
-Rocky Mountain Regional Neuroscience Group, 2017  
 
+2017–2018 — CU Neuroscience Retreat; DARPA PI Meeting  
 **Hickman JL, Donegan D, Peng X, Nettles D, Temple BA, Welle CG**  
 Neuromodulation of motor learning via vagus nerve stimulation  
-CU Neuroscience Retreat (2017); DARPA PI Meeting (2018)  
 
+2018 — Rocky Mountain Regional Neuroscience Group; ASSFN; Motoneuron Conference; Neural Interface Conference; Society for Neuroscience  
 **Hickman JL, Donegan D, Peng X, Sunshine A, Welle CG**  
 Temporally precise VNS enhances motor learning  
-- Rocky Mountain Regional Neuroscience Group (2018)  
-- American Society for Stereotactic and Functional Neurosurgery (2018)  
-- Motoneuron Conference (2018)  
-- Neural Interface Conference (2018)  
-- Society for Neuroscience (2018)  
 
 
 ## honors and awards
 
-NIH T32 MSTP trainee (2020–2021)  
-Best Poster, CU MSTP Retreat (2021)  
-DARPA TNT Ethics Representative (2018)  
-Chemistry Tutor of the Year, Colorado State University (2015)  
-Dean’s List, Colorado State University (2014–2015)  
+2021 — Best Poster, CU MSTP Retreat  
+2020–2021 — NIH T32 MSTP trainee  
+2018 — DARPA TNT Ethics Representative  
+2015 — Chemistry Tutor of the Year, Colorado State University  
+2014–2015 — Dean’s List, Colorado State University  
 
 
 ## professional memberships and service
 
-MSTP representative, student life steering committee, CU School of Medicine (2022–present)  
-Conference organizer, national MD-PhD student conference (2021–2022)  
-Conference organizer, neuroscience retreat (2021)  
-Student member, American Medical Association (2019–present)  
-Member, Society for Neuroscience (2018–2019)  
-Member, American Society for Stereotactic and Functional Neurosurgery (2018–2019)  
+2022–present — MSTP representative, student life steering committee, CU School of Medicine  
+2021–2022 — Conference organizer, national MD-PhD student conference  
+2021 — Conference organizer, neuroscience retreat  
+2019–present — Student member, American Medical Association  
+2018–2019 — Member, Society for Neuroscience  
+2018–2019 — Member, American Society for Stereotactic and Functional Neurosurgery  
