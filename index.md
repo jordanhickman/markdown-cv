@@ -30,17 +30,17 @@ __Colorado State University__
 `2021 - `
 **University of Colorado Anschutz Medical Campus**, Aurora, CO  
 Graduate Researcher, Denman Lab
-Neural population responses to electrical brain stimulation in mouse visual cortex
+- Neural population responses to electrical brain stimulation in mouse visual cortex
 
 `2016 - 2019`
 **University of Colorado Anschutz Medical Campus**, Aurora, CO  
 Professional Research Assistant, Welle Lab
-Vagus nerve stimulation and motor learning in mice  
+- Vagus nerve stimulation and motor learning in mice  
 
 `2014 - 2016`
 **Colorado State University**, Fort Collins, CO  
 Undergraduate Researcher, Rash Lab
-Electrical and ultrastructural coupling of axons and myelin
+- Electrical and ultrastructural coupling of axons and myelin
 
 
 ## Honors, Grants, and Awards
