@@ -113,7 +113,6 @@ Member, American Society for Stereotactic and Functional Neurosurgery
 
 - **Hickman JL**, Denman DJ. Neural population dynamics of direct electrical stimulation of neocortex. North American Neuromodulation Symposium, 2026.
 - **Hickman JL**, Denman DJ. Neural population dynamics of direct electrical stimulation of neocortex. COSYNE, 2026.
-- **Hickman JL**, Denman DJ. Non-uniform propagation of electrically evoked neural activity and behavioral detectability in mice. Neurotechnology Symposium, 2025.
 - **Hickman JL**, Denman DJ. Non-uniform propagation of electrically evoked neural activity and behavioral detectability in mice. Brain Computer Interface Symposium, 2025.
 - **Hickman JL**, Denman DJ. Non-uniform propagation of electrically evoked neural activity and behavioral detectability in mice. Society for Neuroscience, 2024.
 - **Hickman JL**, Hughes G, Denman DJ. Demystifying electrical brain stimulation with multi-neuropixel recordings. MSTP Retreat, 2022; Neuroscience Retreat, 2022.
@@ -124,3 +123,19 @@ Member, American Society for Stereotactic and Functional Neurosurgery
 - **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. Neural Interface Conference, 2018.
 - **Hickman JL**, Donegan D, Peng X, Sunshine A, Welle CG. Temporally precise VNS enhances motor learning. Society for Neuroscience, 2018.
 - **Hickman JL**, Temple BA, Peng X, Welle CG. Chronic VNS in mice to study cortical plasticity. Rocky Mountain Regional Neuroscience Group, 2017.
+
+## Selected Talks
+  `2025`
+  AR Martin Trainee Talk. Selected Abstract. Non-uniform propagation of electrically evoked neural activity and behavioral detectability in mice. 
+  
+  `2025`
+  Neurotechnology Symposium. Selected Abstract. Non-uniform propagation of electrically evoked neural activity and behavioral detectability in mice. 
+  
+  `2022, 2023, 2024, 2025`
+  MSTP Seminar Series. Thesis Update
+  
+  `2023, 2024, 2025`
+  Neuroscience Seminar Series. Thesis Update.
+  
+  
+
