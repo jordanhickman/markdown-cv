@@ -19,22 +19,14 @@ BS, MS, Biomedical Sciences, 2016
 **University of Colorado Anschutz Medical Campus**, Aurora, CO  
 Graduate researcher, Denman Lab, 2021–present  
 Neural population responses to electrical brain stimulation in mouse visual cortex  
-- high-density electrophysiological recordings with spatiotemporal precision  
-- behavioral discrimination of electrical stimulation in primary visual cortex  
-- analysis and experimental design in python  
 
 **University of Colorado Anschutz Medical Campus**, Aurora, CO  
 Professional Research Assistant, Welle Lab, 2016–2019  
 Vagus nerve stimulation and motor learning in mice  
-- developed chronic VNS implant in mice  
-- studied effects of VNS on forelimb reach learning  
-- investigated plasticity mechanisms using electrophysiology, calcium imaging, and viral tracing  
 
 **Colorado State University**, Fort Collins, CO  
 Undergraduate researcher, Rash Lab, 2014–2016  
-Electrical coupling and myelin structure in zebrafish  
-- characterized CNS gap junctions in mauthner cells  
-- identified Cx29 and Kv1.1 hemichannels linking axons to myelin  
+Electrical coupling and axonal and myelin ultrastructure  
 
 
 ## publications
