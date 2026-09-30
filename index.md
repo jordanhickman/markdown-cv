@@ -125,7 +125,7 @@ Member, American Society for Stereotactic and Functional Neurosurgery
 - **Hickman JL**, Temple BA, Peng X, Welle CG. Chronic VNS in mice to study cortical plasticity. Rocky Mountain Regional Neuroscience Group, 2017.
 
 ## Selected Talks
-  '2025'
+  `2025`
   Ophthalmology Retreat. Selected Abstract. Non-uniform propagation of electrically evoked neural activity and behavioral detectability in mice. 
   
   `2025`
