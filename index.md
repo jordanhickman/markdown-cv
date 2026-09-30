@@ -91,7 +91,7 @@ Member, American Society for Stereotactic and Functional Neurosurgery
 
 ### First-author publications
 
-- **Hickman JL**, Hughes G, Sahai E, Miles M, Denman DJ. Neural population dynamics of direct electrical stimulation of neocortex. *bioRxiv*. 2025. https://doi.org/10.1101/2025.10.28.685195 (in review at *Cell Reports*)
+- **Hickman JL**, Hughes G, Sahai E, Miles M, Denman DJ. Neural population dynamics of direct electrical stimulation of neocortex. *Cell Reports*. 2026;45(6):117420. https://doi.org/10.1016/j.celrep.2026.117420
 - **Hickman JL**, Santiago Moreno J, Hughes G, Sahai E, Garcia N, Denman DJ. Non-uniform spike count shared variability in the mouse early visual system. *Journal of Neurophysiology*. 2026. https://doi.org/10.1152/jn.00382.2025
 - **Hickman JL**, Tsai A, Fullard M, Korsmo M, Forbes E, Aslam S, Baumgartner AJ, Feuerstein JS, Bayram E. Early-onset Parkinson's disease: unique features and management approaches. *Current Neurology and Neuroscience Reports*. 2025. https://doi.org/10.1007/s11910-025-01470-2
 - Sahai E\*, **Hickman JL**\*, Denman DJ. A bioelectric router for adaptive isochronous neurostimulation (BRAINS board). *Scientific Reports*. 2025. https://doi.org/10.1038/s41598-025-07568-4
@@ -125,6 +125,9 @@ Member, American Society for Stereotactic and Functional Neurosurgery
 - **Hickman JL**, Temple BA, Peng X, Welle CG. Chronic VNS in mice to study cortical plasticity. Rocky Mountain Regional Neuroscience Group, 2017.
 
 ## Selected Talks
+  '2025'
+  Ophthalmology Retreat. Selected Abstract. Non-uniform propagation of electrically evoked neural activity and behavioral detectability in mice. 
+  
   `2025`
   AR Martin Trainee Talk. Selected Abstract. Non-uniform propagation of electrically evoked neural activity and behavioral detectability in mice. 
   
